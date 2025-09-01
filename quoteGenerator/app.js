@@ -43,4 +43,3 @@ quotebtn.addEventListener('click',function generatequote(){
         quote.innerText = quotes[random].quote;
         person.innerText = quotes[random].person
 })
-
